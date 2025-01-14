@@ -26,4 +26,6 @@ Contains the book rating information. Ratings (Book-Rating) are either explicit,
 
 
 
-***Project Type*** : This is the Unsupervised Learning Project
+***Project Type*** : This is the Unsupervised Learning Project.
+
+***Problem Statement*** : The aim of this project is to develop a recommendation system that can accurately suggest books to users based on their past ratings and preferences, utilizing the Book-Crossing dataset.
