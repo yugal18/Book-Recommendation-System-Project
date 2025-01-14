@@ -23,3 +23,7 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 Ratings:
 
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
+
+
+
+***Project Type*** : This is the Unsupervised Learning Project
